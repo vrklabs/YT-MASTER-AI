@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+httpx
+edge-tts
+faster-whisper
+pillow
+google-api-python-client
+google-auth-oauthlib
+google-auth-httplib2
+redis
+pydantic
